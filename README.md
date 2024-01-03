@@ -35,7 +35,7 @@ Classes are on Wednesdays from 8.30am to 12.30pm for a total of 36 hours. Here i
 ## Careful...
 
 <p align="center">
-  <img src="https://imgs.xkcd.com/comics/here_to_help_2x.png" />
+  <img src="https://imgs.xkcd.com/comics/here_to_help_2x.png" width="800" />
 </p>
 
 Credit: [xkcd 1831](https://xkcd.com/1831/).
