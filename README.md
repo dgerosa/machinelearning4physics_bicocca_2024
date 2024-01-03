@@ -1,2 +1,18 @@
-# machinelearning4physics_bicocca_2024
-Laboratory of Machine Learning Applied to Physical Systems; class for the BSc degree in Artificial Intelligence at the Universities of Milan-Bicocca, Milan-Statale, and Pavia (Italy)
+# Laboratory of Machine Learning Applied to Physical Systems
+[Davide Gerosa](https://davidegerosa.com/)  - davide.gerosa@unimib.it  
+University of Milano-Bicocca, 2024.
+
+## Aims
+
+## Lectures
+
+## Schedule
+
+
+## Resources
+
+
+
+<p align="center">
+  <img src="https://imgs.xkcd.com/comics/here_to_help_2x.png" />
+</p>
