@@ -10,6 +10,16 @@ Machine learning and data mining are quickly becoming essential techniques in th
 
 ## Lectures
 
+1. **[Bayes intro](lectures/L01_bayesintro.ipynb)** Probability theory. Bayes theorem. Bayesian vs frequentist statistics. (*E: Monty Hall*)
+2. **[Sampling](lectures/L02_sampling.ipynb)** From the pdf to the samples: inverse transform, acceptance/rejection (*E: Black holes*)
+3. **[Density estimation](lectures/L03_densityestimation.ipynb)** From the samples to the pdf: histograms, Kernel Density Estimation. (*E: Exoplanets*)
+4. **[Markow chains](lectures/L03_MarkovChains.ipynb)** Monte Carlo integrations. Markow chains. (*E: Stock market*)
+5. **[MCMC](lectures/L03_MCMC.ipynb)** Metropolis Hastings. emcee package. (*E: Supernovae*)
+6. **[Model selection](lectures/L06_modelselection.ipynb)** Bayesian model selection. Savage-Dickey density ratio. (*E: Gravitational waves*)
+7. **[Nested sampling](lectures/L05_nestedsampling.ipynb)** Computing the evidence. Nested samping. dynesty package (*E: Higgs Boson*)
+8. **[Project](lectures/L07_project.ipynb)** (*E: Galaxy collelations*)
+
+
 ## Schedule
 
 Classes are on Wednesdays from 8.30am to 12.30pm for a total of 36 hours. Here is our timetable:
@@ -18,15 +28,15 @@ Classes are on Wednesdays from 8.30am to 12.30pm for a total of 36 hours. Here i
 - **[05-08] 13-03-24**
 - **[09-12] 20-03-24**
 - **[13-16] 27-03-24**
-- 03-04-24. *No lecture, Davide is away for research.*
+- 03-04-24. *No lecture, Davide and Giulia are away for research.*
 - **[17-20] 10-04-24**
 - **[21-24] 17-04-24**
 - **[25-28] 24-04-24**
 - **[29-32] 08-05-24**
 - **[33-36] 15-05-24**
-- 22-05-24. *Question time with Giulia*
-- 29-05-24 *Extra slot in case we miss one...*
-- 05-06-24 *Extra slot in case we miss one...*
+- 22-05-24. *Question time*
+- 29-05-24 *[Extra slot in case we skip one lecture...]*
+- 05-06-24 *[Extra slot in case we skip one lecture...]*
 
 ## Resources
 
