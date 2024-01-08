@@ -24,19 +24,19 @@ Machine learning and data mining are quickly becoming essential techniques in th
 
 Classes are on Wednesdays from 8.30am to 12.30pm for a total of 36 hours. Here is our timetable:
 
-- **[01-04] 06-03-24**
-- **[05-08] 13-03-24**
-- **[09-12] 20-03-24**
-- **[13-16] 27-03-24**
+- **[01-04] 06-03-24**. U7 building, Lab712.
+- **[05-08] 13-03-24**. U7 building, Lab712.
+- **[09-12] 20-03-24**. U7 building, Lab712.
+- **[13-16] 27-03-24**. U7 building, Lab712.
 - 03-04-24. *No lecture, Davide and Giulia are away for research.*
-- **[17-20] 10-04-24**
-- **[21-24] 17-04-24**
-- **[25-28] 24-04-24**
-- **[29-32] 08-05-24**
-- **[33-36] 15-05-24**
-- 22-05-24. *Question time*
-- 29-05-24 *[Extra slot in case we skip one lecture...]*
-- 05-06-24 *[Extra slot in case we skip one lecture...]*
+- **[17-20] 10-04-24**. U7 building, Lab712.
+- **[21-24] 17-04-24**. U7 building, Lab712.
+- **[25-28] 24-04-24**. U7 building, Lab712.
+- **[29-32] 08-05-24**. U9 building, Lab909.
+- **[33-36] 15-05-24**. U7 building, Lab714.
+- 22-05-24. *Question time*. U7 building, Lab714.
+- 29-05-24 *[Extra slot in case we skip one lecture...]*. U7 building, Lab714.
+- 05-06-24 *[Extra slot in case we skip one lecture...]*. U7 building, Lab714.
 
 ## Resources
 
