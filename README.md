@@ -40,7 +40,7 @@ Classes are on Wednesdays from 8.30am to 12.30pm for a total of 36 hours. Here i
 
 ## Resources
 
-Here are some useful textbooks. The first one is easier, the second one is amazing, the third and fourth ones are for the true Bayesians...
+Here are some useful textbooks. The first one is easier, the second one is amazing, the third is short and sweet, the fourth and fifth ones are for the true Bayesians...
 
  - ["Machine Learning for Physics and Astronomy"](https://press.princeton.edu/books/paperback/9780691206417/machine-learning-for-physics-and-astronomy), Acquaviva, Princeton University Press, 2023.
 - ["Statistics, Data Mining, and Machine Learning in Astronomy"](https://press.princeton.edu/books/hardcover/9780691198309/statistics-data-mining-and-machine-learning-in-astronomy), Željko, Andrew, Jacob, and Gray. Princeton University Press, 2012.
