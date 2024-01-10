@@ -2,7 +2,7 @@
 **[Davide Gerosa](https://davidegerosa.com/)** (module lead) - davide.gerosa@unimib.it  
 **Giulia Fumagalli** (teaching assistant) - g.fumagalli47@campus.unimib.it 
 
-University of Milano-Bicocca, 2024.
+University of Milano-Bicocca, 2024. [BSc in Artificial Intelligence](https://www.unimib.it/undergraduate/artificial-intelligence).
 
 ## Aims
 
