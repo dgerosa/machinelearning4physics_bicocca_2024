@@ -13,7 +13,7 @@ Machine learning and data mining are quickly becoming essential techniques in th
 1. **[Probability](lectures/L01_probability.ipynb)** Probability theory. Bayes theorem. Descriptive statistics (*E: Monty Hall*)
 2. **[Sampling](lectures/L02_sampling.ipynb)** Bayesian vs frequentist statistics. From the pdf to the samples: inverse transform, acceptance/rejection (*E: Black holes*)
 3. **[Density estimation](lectures/L03_densityestimation.ipynb)** From the samples to the pdf: histograms, Kernel Density Estimation. (*E: Exoplanets*)
-4. **[Markow chains](lectures/L04_MarkovChains.ipynb)** Monte Carlo integrations. Markow chains. (*E: Stock market*)
+4. **[Markow chains](lectures/L04_Markovchains.ipynb)** Monte Carlo integrations. Markow chains. (*E: Stock market*)
 5. **[MCMC](lectures/L05_MCMC.ipynb)** Metropolis Hastings. emcee package. (*E: Supernovae*)
 6. **[Model selection](lectures/L06_modelselection.ipynb)** Bayesian model selection. Savage-Dickey density ratio. (*E: Gravitational waves*)
 7. **[Nested sampling](lectures/L07_nestedsampling.ipynb)** Computing the evidence. Nested samping. dynesty package (*E: Higgs Boson*)
