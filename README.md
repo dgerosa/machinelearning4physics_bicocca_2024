@@ -17,7 +17,7 @@ Machine learning and data mining are quickly becoming essential techniques in th
 5. **[MCMC](lectures/L05_MCMC.ipynb)** Metropolis Hastings. emcee package. (*E: Supernovae*)
 6. **[Model selection](lectures/L06_modelselection.ipynb)** Bayesian model selection. Savage-Dickey density ratio. (*E: Gravitational waves*)
 7. **[Nested sampling](lectures/L07_nestedsampling.ipynb)** Computing the evidence. Nested samping. dynesty package (*E: Higgs Boson*)
-8. **[Project](lectures/L08_project.ipynb)** (*E: Galaxy correlations*)
+8. **[Project](lectures/L08_project.ipynb)** (*E: The expansion of the Universe*)
 
 
 ## Schedule
