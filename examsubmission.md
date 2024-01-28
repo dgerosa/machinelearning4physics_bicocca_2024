@@ -16,9 +16,9 @@ These are some instructions to submit your exercises, assuming you don't know ho
 
 It's really straightforward. Some screenshots here: 
 
-![step1](https://github.com/dgerosa/machinelearning4physics_bicocca_2024/assets/7237041/5daebb00-b52f-49e5-9bca-3b881ff10540)
-![step2](https://github.com/dgerosa/machinelearning4physics_bicocca_2024/assets/7237041/0fc07af1-f70f-4919-8f10-28c5afaf0a1e)
-![step3](https://github.com/dgerosa/machinelearning4physics_bicocca_2024/assets/7237041/0008d91c-4694-482c-9cc4-f1a929c7ec42)
-![step4](https://github.com/dgerosa/machinelearning4physics_bicocca_2024/assets/7237041/48bb158c-cd10-4e19-9507-110e668ebb69)
-![step5](https://github.com/dgerosa/machinelearning4physics_bicocca_2024/assets/7237041/d6ea7c39-8d18-45f4-9765-278d69dcd345)
-![step6](https://github.com/dgerosa/machinelearning4physics_bicocca_2024/assets/7237041/90f5a6d8-37e4-4fac-aced-d0e394d252b3)
+![step1](https://github.com/dgerosa/machinelearning4physics_bicocca_2024/assets/7237041/c6f99c35-6ca0-40aa-b8c4-f28ccb3156e1)
+![step2](https://github.com/dgerosa/machinelearning4physics_bicocca_2024/assets/7237041/8bf2d3f6-84fd-4840-aaa7-0ee4278c62fd)
+![step3](https://github.com/dgerosa/machinelearning4physics_bicocca_2024/assets/7237041/e2a03f0c-5ea0-4cf8-aeaa-ea7c359edc4d)
+![step4](https://github.com/dgerosa/machinelearning4physics_bicocca_2024/assets/7237041/ea66c7af-fe42-479f-95bc-a804e2d34fee)
+![step5](https://github.com/dgerosa/machinelearning4physics_bicocca_2024/assets/7237041/d9ccfa6c-a5b2-482b-8919-6ed88f045642)
+![step6](https://github.com/dgerosa/machinelearning4physics_bicocca_2024/assets/7237041/acfe6c62-af00-4a41-8db9-e6e559196e6f)
