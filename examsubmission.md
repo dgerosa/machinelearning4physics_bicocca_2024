@@ -14,7 +14,7 @@ These are some instructions to submit your exercises, assuming you don't know ho
 
 
 
-It's really straightforward. Some screenshots here: 
+It's really straightforward. Here are some screenshots: 
 
 -----
 
