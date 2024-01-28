@@ -55,6 +55,12 @@ Classes are on Wednesdays from 8.30am to 12.30pm for a total of 36 hours. Here i
 - 05-06-24 *[Extra slot in case we skip one lecture...]*. U7 building, Lab714.
 - 12-06-24 *[Extra slot in case we skip one lecture...]*. U7 building, Lab714.
 
+## Exams
+
+Each lecture has an exercise at the end (actually, most of the time in class is dedicated to completing these problems!). At the end of the class, you will have to submit your codes showcasing what you've done on these problems. There will not be oral exams.
+
+To submit your code, register on github.com, create a new, **private** repository called `machinelearning4physics_bicocca_2024`, and upload your files, and share it with me (`dgerosa`) and Giulia (`gfumagalli`). Detailed instructions are available [here](examsubmission.md)
+
 ## Careful...
 
 <p align="center">
