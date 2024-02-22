@@ -15,8 +15,8 @@ Machine learning and data mining are quickly becoming essential techniques in th
 3. **[Density estimation](lectures/L03_densityestimation.ipynb)** From the samples to the pdf: histograms, Kernel Density Estimation. (*E: Exoplanets*)
 4. **[Markow chains](lectures/L04_Markovchains.ipynb)** Monte Carlo integrations. Markow chains. (*E: Weather forecast, N-dimemsional balls*)
 5. **[MCMC](lectures/L05_MCMC.ipynb)** Metropolis Hastings. MCMC diagnostics. Modern samplers. (*E: Time transients*)
-6. **[Model selection](lectures/L06_modelselection.ipynb)** Bayesian model selection. Savage-Dickey density ratio. (*E: Gravitational waves*)
-7. **[Nested sampling](lectures/L07_nestedsampling.ipynb)** Computing the evidence. Nested samping. Modern samples. (*E: Higgs Boson*)
+6. **[Model selection](lectures/L06_modelselection.ipynb)** Bayesian model selection. Savage-Dickey density ratio. (*E: Higgs Boson*)
+7. **[Nested sampling](lectures/L07_nestedsampling.ipynb)** Computing the evidence. Nested samping. Modern samples. (*E: Time transients & Higgs Boson*)
 8. **[Project](lectures/L08_project.ipynb)** (*E: The expansion of the Universe*)
 
 ## Resources
