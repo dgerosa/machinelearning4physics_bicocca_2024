@@ -56,6 +56,10 @@ Classes are on Wednesdays from 8.30am to 12.30pm for a total of 36 hours. Here i
 - 05-06-24. U7-Lab714. *[Extra slot in case we skip one lecture...]*. 
 - 12-06-24. U7-Lab714. *[Extra slot in case we skip one lecture...]*. 
 
+## Setup
+
+You will need to run python for this class. See [here for instructions](pythonsetup.md).
+
 ## Exams
 
 Each lecture has an exercise at the end (actually, most of the time in class is dedicated to completing these problems!). At the end of the class, you will have to submit your codes showcasing what you've done on these problems. There will not be oral exams. The outcome will be provided as a passed / not passed statement (no numbers).
