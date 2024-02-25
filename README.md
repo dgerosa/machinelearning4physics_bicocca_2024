@@ -40,20 +40,21 @@ We will make heavy use of the python programming language. If you need to refres
 
 Classes are on Wednesdays from 8.30am to 12.30pm for a total of 36 hours. Here is our timetable:
 
-- **06-03-24**. U7-Lab712.
-- **13-03-24**. U7-Lab712.
-- **20-03-24**. U7-Lab712.
-- **27-03-24**. U7-Lab712.
+1. **06-03-24**. U7-Lab712.
+2. **13-03-24**. U7-Lab712.
+3. **20-03-24**. U7-Lab712.
+4. **27-03-24**. U7-Lab712.
 - 03-04-24. *No lecture, Davide and Giulia are away for research.*
-- **10-04-24**. U7-Lab712.
-- **17-04-24**. U7-Lab712.
-- **24-04-24**. U7-Lab712.
-- **08-05-24**. U9a-Lab909.
-- **15-05-24**. U7-Lab714.
-- 22-05-24. *Question time*. U7 building, Lab714.
-- 29-05-24 *[Extra slot in case we skip one lecture...]*. U7 building, Lab714.
-- 05-06-24 *[Extra slot in case we skip one lecture...]*. U7 building, Lab714.
-- 12-06-24 *[Extra slot in case we skip one lecture...]*. U7 building, Lab714.
+5. **10-04-24**. U7-Lab712.
+6. **17-04-24**. U7-Lab712.
+7. **24-04-24**. U7-Lab712.
+- 01-05-24. *Holiday.*
+8. **08-05-24**. U9a-Lab909.
+9. **15-05-24**. U7-Lab714.
+10. 22-05-24. U7-Lab714. *Question time*. 
+- 29-05-24. U7-Lab714. *[Extra slot in case we skip one lecture...]*.
+- 05-06-24. U7-Lab714. *[Extra slot in case we skip one lecture...]*. 
+- 12-06-24. U7-Lab714. *[Extra slot in case we skip one lecture...]*. 
 
 ## Exams
 
