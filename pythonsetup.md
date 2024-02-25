@@ -18,7 +18,7 @@ https://libaas-lessons.si.unimib.it
 
 You will have access you a desktop-like environment where you can work freely. 
 
-- I think the virtual-machine images are erased once a year. So when this class is over make sure you save your work somewhere else, so you'll be able to access your codes in the future should you need hem. 
+- **Important** The virtual-machine images can be erased without notice. So when each class is over make sure you save your work somewhere else.
 
 
 ### 2. Your own python distribution
