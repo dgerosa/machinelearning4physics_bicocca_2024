@@ -1,6 +1,6 @@
 # Getting started: run python
 
-This class is entirely developed with the python programming language. Some python knowledge is requires, see [here](README.md) for some intro resources. You have two options:
+This class is entirely developed with the python programming language. Some python knowledge is required, see [here](README.md) for some intro resources. You have two options:
 
 ### 1. Unimib virtual machine
 
