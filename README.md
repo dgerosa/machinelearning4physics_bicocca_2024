@@ -58,7 +58,7 @@ Classes are on Wednesdays from 8.30am to 12.30pm for a total of 36 hours. Here i
 
 ## Setup
 
-You will need to run python for this class. See [here for instructions](pythonsetup.md).
+Each class will be about 1h of lecture and about 3h of coding. You will need to run python, see [here for instructions](pythonsetup.md).
 
 ## Exams
 
