@@ -13,10 +13,10 @@ Machine learning and data mining are quickly becoming essential techniques in th
 1. **[Probability](lectures/L01_probability.ipynb)** Probability theory. Bayes theorem. Descriptive statistics (*E: Monty Hall*)
 2. **[Sampling](lectures/L02_sampling.ipynb)** Bayesian vs frequentist statistics. From the pdf to the samples: inverse transform, acceptance/rejection (*E: Black holes*)
 3. **[Density estimation](lectures/L03_densityestimation.ipynb)** From the samples to the pdf: histograms, Kernel Density Estimation. (*E: Exoplanets*)
-4. **[Markow chains](lectures/L04_Markovchains.ipynb)** Monte Carlo integrations. Markow chains. (*E: Weather forecast, N-dimemsional balls*)
+4. **[Markow chains](lectures/L04_Markovchains.ipynb)** Monte Carlo integrations. Markow chains. (*E: Weather forecast, N-dimensional balls*)
 5. **[MCMC](lectures/L05_MCMC.ipynb)** Metropolis Hastings. MCMC diagnostics. Modern samplers. (*E: Time transients*)
-6. **[Model selection](lectures/L06_modelselection.ipynb)** Bayesian model selection. Savage-Dickey density ratio. (*E: Gravitational waves*)
-7. **[Nested sampling](lectures/L07_nestedsampling.ipynb)** Computing the evidence. Nested samping. Modern samples. (*E: Higgs Boson*)
+6. **[Model selection](lectures/L06_modelselection.ipynb)** Bayesian model selection. Savage-Dickey density ratio. (*E: Higgs Boson*)
+7. **[Nested sampling](lectures/L07_nestedsampling.ipynb)** Computing the evidence. Nested sampling. Modern samples. (*E: Time transients & Higgs Boson*)
 8. **[Project](lectures/L08_project.ipynb)** (*E: The expansion of the Universe*)
 
 ## Resources
@@ -40,20 +40,25 @@ We will make heavy use of the python programming language. If you need to refres
 
 Classes are on Wednesdays from 8.30am to 12.30pm for a total of 36 hours. Here is our timetable:
 
-- **06-03-24**. U7-Lab712.
-- **13-03-24**. U7-Lab712.
-- **20-03-24**. U7-Lab712.
-- **27-03-24**. U7-Lab712.
+1. **06-03-24**. U7-Lab712.
+2. **13-03-24**. U7-Lab712.
+3. **20-03-24**. U7-Lab712.
+4. **27-03-24**. U7-Lab712.
 - 03-04-24. *No lecture, Davide and Giulia are away for research.*
-- **10-04-24**. U7-Lab712.
-- **17-04-24**. U7-Lab712.
-- **24-04-24**. U7-Lab712.
-- **08-05-24**. U9a-Lab909.
-- **15-05-24**. U7-Lab714.
-- 22-05-24. *Question time*. U7 building, Lab714.
-- 29-05-24 *[Extra slot in case we skip one lecture...]*. U7 building, Lab714.
-- 05-06-24 *[Extra slot in case we skip one lecture...]*. U7 building, Lab714.
-- 12-06-24 *[Extra slot in case we skip one lecture...]*. U7 building, Lab714.
+5. **10-04-24**. U7-Lab712.
+6. **17-04-24**. U7-Lab712.
+7. **24-04-24**. U7-Lab712.
+- 01-05-24. *Holiday.*
+8. **08-05-24**. U9a-Lab909.
+9. **15-05-24**. U7-Lab714.
+10. 22-05-24. U7-Lab714. *Question time*. 
+- 29-05-24. U7-Lab714. *[Extra slot in case we skip one lecture...]*.
+- 05-06-24. U7-Lab714. *[Extra slot in case we skip one lecture...]*. 
+- 12-06-24. U7-Lab714. *[Extra slot in case we skip one lecture...]*. 
+
+## Setup
+
+Each class will be about 1h of lecture and about 3h of coding. You will need to run python, see [here for instructions](pythonsetup.md).
 
 ## Exams
 
